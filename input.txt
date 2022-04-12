@@ -1,0 +1,3 @@
+this is the file where you should type your message to encode
+to encode the file you should run the "huffmanencdoing.cpp" to get a encoded string into the file "encodedstring.txt"
+To decode any encoded string you should run the "huffmandecoding.cpp" file and the decoded string will be in "decodedstring.txt" file
